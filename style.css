@@ -25,6 +25,8 @@
 .grid div {
     height: 70px;
     width: 70px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 h3 {
@@ -45,6 +47,8 @@ body {
     background-image: url("./candy-house.png");
     max-width: 100vh;
     display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .score-board {
