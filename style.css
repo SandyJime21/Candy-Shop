@@ -13,7 +13,7 @@
 }
 
 .header {
-    background-image: url("candy-logo.png");
+    background-image: url("./candy-logo.png");
     min-height: 180px;
     min-width: 255px;
     margin-left: 370px;
@@ -42,7 +42,7 @@ h1 {
 }
 
 body {
-    background-image: url("candy-house.png");
+    background-image: url("./candy-house.png");
     max-width: 100vh;
     display: flex;
 }
